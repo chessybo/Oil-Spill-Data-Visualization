@@ -25,7 +25,7 @@ df = pd.concat([df4, df2009], ignore_index=True)
 
 df_year = df.groupby('MasterYear')['Net Loss'].agg(['sum','count'])
 
-dfproduction = pd.read_csv('https://raw.githubusercontent.com/chessybo/Oil-Spill-map/master/Oil%20Spill%20Data%20-%20Crude%20Oil%2C%20Gas%20Well%20Liquids%20or%20Associated%20Products%20(H-8)/production%20data/Crude%20Oil%20Production%20and%20Well%20Counts%20(since%201935).csv', encoding='utf8')
+dfproduction = pd.read_csv('https://raw.githubusercontent.com/chessybo/Oil-Spill-Data-Visualization/master/production%20data/Crude%20Oil%20Production%20and%20Well%20Counts%20(since%201935).csv', encoding='utf8')
 
 df_production_yr = df_year.merge(dfproduction, on='MasterYear')
 
