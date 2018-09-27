@@ -1,0 +1,1473 @@
+fips_state,fips_county,County
+48,0,Texas
+48,1,Anderson County
+48,3,Andrews County
+48,5,Angelina County
+48,7,Aransas County
+48,9,Archer County
+48,11,Armstrong County
+48,13,Atascosa County
+48,15,Austin County
+48,17,Bailey County
+48,19,Bandera County
+48,21,Bastrop County
+48,23,Baylor County
+48,25,Bee County
+48,27,Bell County
+48,29,Bexar County
+48,31,Blanco County
+48,33,Borden County
+48,35,Bosque County
+48,37,Bowie County
+48,39,Brazoria County
+48,41,Brazos County
+48,43,Brewster County
+48,45,Briscoe County
+48,47,Brooks County
+48,49,Brown County
+48,51,Burleson County
+48,53,Burnet County
+48,55,Caldwell County
+48,57,Calhoun County
+48,59,Callahan County
+48,61,Cameron County
+48,63,Camp County
+48,65,Carson County
+48,67,Cass County
+48,69,Castro County
+48,71,Chambers County
+48,73,Cherokee County
+48,75,Childress County
+48,77,Clay County
+48,79,Cochran County
+48,81,Coke County
+48,83,Coleman County
+48,85,Collin County
+48,87,Collingsworth County
+48,89,Colorado County
+48,91,Comal County
+48,93,Comanche County
+48,95,Concho County
+48,97,Cooke County
+48,99,Coryell County
+48,101,Cottle County
+48,103,Crane County
+48,105,Crockett County
+48,107,Crosby County
+48,109,Culberson County
+48,111,Dallam County
+48,113,Dallas County
+48,115,Dawson County
+48,117,Deaf Smith County
+48,119,Delta County
+48,121,Denton County
+48,123,DeWitt County
+48,125,Dickens County
+48,127,Dimmit County
+48,129,Donley County
+48,131,Duval County
+48,133,Eastland County
+48,135,Ector County
+48,137,Edwards County
+48,139,Ellis County
+48,141,El Paso County
+48,143,Erath County
+48,145,Falls County
+48,147,Fannin County
+48,149,Fayette County
+48,151,Fisher County
+48,153,Floyd County
+48,155,Foard County
+48,157,Fort Bend County
+48,159,Franklin County
+48,161,Freestone County
+48,163,Frio County
+48,165,Gaines County
+48,167,Galveston County
+48,169,Garza County
+48,171,Gillespie County
+48,173,Glasscock County
+48,175,Goliad County
+48,177,Gonzales County
+48,179,Gray County
+48,181,Grayson County
+48,183,Gregg County
+48,185,Grimes County
+48,187,Guadalupe County
+48,189,Hale County
+48,191,Hall County
+48,193,Hamilton County
+48,195,Hansford County
+48,197,Hardeman County
+48,199,Hardin County
+48,201,Harris County
+48,203,Harrison County
+48,205,Hartley County
+48,207,Haskell County
+48,209,Hays County
+48,211,Hemphill County
+48,213,Henderson County
+48,215,Hidalgo County
+48,217,Hill County
+48,219,Hockley County
+48,221,Hood County
+48,223,Hopkins County
+48,225,Houston County
+48,227,Howard County
+48,229,Hudspeth County
+48,231,Hunt County
+48,233,Hutchinson County
+48,235,Irion County
+48,237,Jack County
+48,239,Jackson County
+48,241,Jasper County
+48,243,Jeff Davis County
+48,245,Jefferson County
+48,247,Jim Hogg County
+48,249,Jim Wells County
+48,251,Johnson County
+48,253,Jones County
+48,255,Karnes County
+48,257,Kaufman County
+48,259,Kendall County
+48,261,Kenedy County
+48,263,Kent County
+48,265,Kerr County
+48,267,Kimble County
+48,269,King County
+48,271,Kinney County
+48,273,Kleberg County
+48,275,Knox County
+48,277,Lamar County
+48,279,Lamb County
+48,281,Lampasas County
+48,283,La Salle County
+48,285,Lavaca County
+48,287,Lee County
+48,289,Leon County
+48,291,Liberty County
+48,293,Limestone County
+48,295,Lipscomb County
+48,297,Live Oak County
+48,299,Llano County
+48,301,Loving County
+48,303,Lubbock County
+48,305,Lynn County
+48,307,McCulloch County
+48,309,McLennan County
+48,311,McMullen County
+48,313,Madison County
+48,315,Marion County
+48,317,Martin County
+48,319,Mason County
+48,321,Matagorda County
+48,323,Maverick County
+48,325,Medina County
+48,327,Menard County
+48,329,Midland County
+48,331,Milam County
+48,333,Mills County
+48,335,Mitchell County
+48,337,Montague County
+48,339,Montgomery County
+48,341,Moore County
+48,343,Morris County
+48,345,Motley County
+48,347,Nacogdoches County
+48,349,Navarro County
+48,351,Newton County
+48,353,Nolan County
+48,355,Nueces County
+48,357,Ochiltree County
+48,359,Oldham County
+48,361,Orange County
+48,363,Palo Pinto County
+48,365,Panola County
+48,367,Parker County
+48,369,Parmer County
+48,371,Pecos County
+48,373,Polk County
+48,375,Potter County
+48,377,Presidio County
+48,379,Rains County
+48,381,Randall County
+48,383,Reagan County
+48,385,Real County
+48,387,Red River County
+48,389,Reeves County
+48,391,Refugio County
+48,393,Roberts County
+48,395,Robertson County
+48,397,Rockwall County
+48,399,Runnels County
+48,401,Rusk County
+48,403,Sabine County
+48,405,San Augustine County
+48,407,San Jacinto County
+48,409,San Patricio County
+48,411,San Saba County
+48,413,Schleicher County
+48,415,Scurry County
+48,417,Shackelford County
+48,419,Shelby County
+48,421,Sherman County
+48,423,Smith County
+48,425,Somervell County
+48,427,Starr County
+48,429,Stephens County
+48,431,Sterling County
+48,433,Stonewall County
+48,435,Sutton County
+48,437,Swisher County
+48,439,Tarrant County
+48,441,Taylor County
+48,443,Terrell County
+48,445,Terry County
+48,447,Throckmorton County
+48,449,Titus County
+48,451,Tom Green County
+48,453,Travis County
+48,455,Trinity County
+48,457,Tyler County
+48,459,Upshur County
+48,461,Upton County
+48,463,Uvalde County
+48,465,Val Verde County
+48,467,Van Zandt County
+48,469,Victoria County
+48,471,Walker County
+48,473,Waller County
+48,475,Ward County
+48,477,Washington County
+48,479,Webb County
+48,481,Wharton County
+48,483,Wheeler County
+48,485,Wichita County
+48,487,Wilbarger County
+48,489,Willacy County
+48,491,Williamson County
+48,493,Wilson County
+48,495,Winkler County
+48,497,Wise County
+48,499,Wood County
+48,501,Yoakum County
+48,503,Young County
+48,505,Zapata County
+48,507,Zavala County
+48,0,Abbott city
+48,0,Abernathy city
+48,0,Abilene city
+48,0,Ackerly city
+48,0,Addison town
+48,0,Adrian city
+48,0,Agua Dulce city
+48,0,Alamo city
+48,0,Alamo Heights city
+48,0,Alba town
+48,0,Albany city
+48,0,Aledo city
+48,0,Alice city
+48,0,Allen city
+48,0,Alma town
+48,0,Alpine city
+48,0,Alto town
+48,0,Alton city
+48,0,Alvarado city
+48,0,Alvin city
+48,0,Alvord town
+48,0,Amarillo city
+48,0,Ames city
+48,0,Amherst city
+48,0,Anahuac city
+48,0,Anderson city
+48,0,Andrews city
+48,0,Angleton city
+48,0,Angus city
+48,0,Anna city
+48,0,Annetta town
+48,0,Annetta North town
+48,0,Annetta South town
+48,0,Annona town
+48,0,Anson city
+48,0,Anthony town
+48,0,Anton city
+48,0,Appleby city
+48,0,Aquilla city
+48,0,Aransas Pass city
+48,0,Archer City city
+48,0,Arcola city
+48,0,Argyle city
+48,0,Arlington city
+48,0,Arp city
+48,0,Asherton city
+48,0,Aspermont town
+48,0,Athens city
+48,0,Atlanta city
+48,0,Aubrey city
+48,0,Aurora city
+48,0,Austin city
+48,0,Austwell city
+48,0,Avery town
+48,0,Avinger town
+48,0,Azle city
+48,0,Bailey city
+48,0,Bailey's Prairie village
+48,0,Baird city
+48,0,Balch Springs city
+48,0,Balcones Heights city
+48,0,Ballinger city
+48,0,Balmorhea city
+48,0,Bandera city
+48,0,Bangs city
+48,0,Bardwell city
+48,0,Barry city
+48,0,Barstow city
+48,0,Bartlett city
+48,0,Bartonville town
+48,0,Bastrop city
+48,0,Bay City city
+48,0,Bayou Vista city
+48,0,Bayside town
+48,0,Baytown city
+48,0,Bayview town
+48,0,Beach City city
+48,0,Bear Creek village
+48,0,Beasley city
+48,0,Beaumont city
+48,0,Beckville city
+48,0,Bedford city
+48,0,Bedias city
+48,0,Bee Cave city
+48,0,Beeville city
+48,0,Bellaire city
+48,0,Bellevue city
+48,0,Bellmead city
+48,0,Bells town
+48,0,Bellville city
+48,0,Belton city
+48,0,Benavides city
+48,0,Benbrook city
+48,0,Benjamin city
+48,0,Berryville town
+48,0,Bertram city
+48,0,Beverly Hills city
+48,0,Bevil Oaks city
+48,0,Big Lake city
+48,0,Big Sandy town
+48,0,Big Spring city
+48,0,Big Wells city
+48,0,Bishop city
+48,0,Bishop Hills town
+48,0,Blackwell city
+48,0,Blanco city
+48,0,Blanket town
+48,0,Bloomburg town
+48,0,Blooming Grove town
+48,0,Blossom city
+48,0,Blue Mound city
+48,0,Blue Ridge city
+48,0,Blum town
+48,0,Boerne city
+48,0,Bogata city
+48,0,Bonham city
+48,0,Bonney village
+48,0,Booker town
+48,0,Borger city
+48,0,Bovina city
+48,0,Bowie city
+48,0,Boyd town
+48,0,Brackettville city
+48,0,Brady city
+48,0,Brazoria city
+48,0,Brazos Bend city
+48,0,Brazos Country city
+48,0,Breckenridge city
+48,0,Bremond city
+48,0,Brenham city
+48,0,Briarcliff village
+48,0,Briaroaks city
+48,0,Bridge City city
+48,0,Bridgeport city
+48,0,Broaddus town
+48,0,Bronte town
+48,0,Brookshire city
+48,0,Brookside Village city
+48,0,Browndell city
+48,0,Brownfield city
+48,0,Brownsboro city
+48,0,Brownsville city
+48,0,Brownwood city
+48,0,Bruceville-Eddy city
+48,0,Bryan city
+48,0,Bryson city
+48,0,Buckholts town
+48,0,Buda city
+48,0,Buffalo city
+48,0,Buffalo Gap town
+48,0,Buffalo Springs village
+48,0,Bullard town
+48,0,Bulverde city
+48,0,Bunker Hill Village city
+48,0,Burkburnett city
+48,0,Burke city
+48,0,Burleson city
+48,0,Burnet city
+48,0,Burton city
+48,0,Byers city
+48,0,Bynum town
+48,0,Cactus city
+48,0,Caddo Mills city
+48,0,Caldwell city
+48,0,Callisburg city
+48,0,Calvert city
+48,0,Cameron city
+48,0,Campbell city
+48,0,Camp Wood city
+48,0,Canadian city
+48,0,Caney City town
+48,0,Canton city
+48,0,Canyon city
+48,0,Carbon town
+48,0,Carl's Corner town
+48,0,Carmine city
+48,0,Carrizo Springs city
+48,0,Carrollton city
+48,0,Carthage city
+48,0,Cashion Community city
+48,0,Castle Hills city
+48,0,Castroville city
+48,0,Cedar Hill city
+48,0,Cedar Park city
+48,0,Celeste city
+48,0,Celina city
+48,0,Center city
+48,0,Centerville city
+48,0,Chandler city
+48,0,Channing city
+48,0,Charlotte city
+48,0,Chester town
+48,0,Chico city
+48,0,Childress city
+48,0,Chillicothe city
+48,0,China city
+48,0,China Grove town
+48,0,Chireno city
+48,0,Christine town
+48,0,Cibolo city
+48,0,Cisco city
+48,0,Clarendon city
+48,0,Clarksville city
+48,0,Clarksville City city
+48,0,Claude city
+48,0,Clear Lake Shores city
+48,0,Cleburne city
+48,0,Cleveland city
+48,0,Clifton city
+48,0,Clint town
+48,0,Clute city
+48,0,Clyde city
+48,0,Coahoma town
+48,0,Cockrell Hill city
+48,0,Coffee City town
+48,0,Coldspring city
+48,0,Coleman city
+48,0,College Station city
+48,0,Colleyville city
+48,0,Collinsville town
+48,0,Colmesneil city
+48,0,Colorado City city
+48,0,Columbus city
+48,0,Comanche city
+48,0,Combes town
+48,0,Combine city
+48,0,Commerce city
+48,0,Como town
+48,0,Conroe city
+48,0,Converse city
+48,0,Cool city
+48,0,Coolidge town
+48,0,Cooper city
+48,0,Coppell city
+48,0,Copperas Cove city
+48,0,Copper Canyon town
+48,0,Corinth city
+48,0,Corpus Christi city
+48,0,Corral City town
+48,0,Corrigan town
+48,0,Corsicana city
+48,0,Cottonwood city
+48,0,Cottonwood Shores city
+48,0,Cotulla city
+48,0,Coupland city
+48,0,Cove city
+48,0,Covington city
+48,0,Coyote Flats city
+48,0,Crandall city
+48,0,Crane city
+48,0,Cranfills Gap city
+48,0,Crawford town
+48,0,Creedmoor city
+48,0,Cresson city
+48,0,Crockett city
+48,0,Crosbyton city
+48,0,Cross Plains town
+48,0,Cross Roads town
+48,0,Cross Timber town
+48,0,Crowell city
+48,0,Crowley city
+48,0,Crystal City city
+48,0,Cuero city
+48,0,Cumby city
+48,0,Cuney town
+48,0,Cushing city
+48,0,Cut and Shoot city
+48,0,Daingerfield city
+48,0,Daisetta city
+48,0,Dalhart city
+48,0,Dallas city
+48,0,Dalworthington Gardens city
+48,0,Danbury city
+48,0,Darrouzett town
+48,0,Dawson town
+48,0,Dayton city
+48,0,Dayton Lakes city
+48,0,Dean city
+48,0,Decatur city
+48,0,DeCordova city
+48,0,Deer Park city
+48,0,De Kalb city
+48,0,De Leon city
+48,0,Dell City city
+48,0,Del Rio city
+48,0,Denison city
+48,0,Denton city
+48,0,Denver City town
+48,0,Deport city
+48,0,DeSoto city
+48,0,Detroit town
+48,0,Devers city
+48,0,Devine city
+48,0,Diboll city
+48,0,Dickens city
+48,0,Dickinson city
+48,0,Dilley city
+48,0,Dimmitt city
+48,0,DISH town
+48,0,Dodd City town
+48,0,Dodson town
+48,0,Domino town
+48,0,Donna city
+48,0,Dorchester city
+48,0,Double Oak town
+48,0,Douglassville town
+48,0,Dripping Springs city
+48,0,Driscoll city
+48,0,Dublin city
+48,0,Dumas city
+48,0,Duncanville city
+48,0,Eagle Lake city
+48,0,Eagle Pass city
+48,0,Early city
+48,0,Earth city
+48,0,East Bernard city
+48,0,Eastland city
+48,0,East Mountain city
+48,0,Easton city
+48,0,East Tawakoni city
+48,0,Ector city
+48,0,Edcouch city
+48,0,Eden city
+48,0,Edgecliff Village town
+48,0,Edgewood town
+48,0,Edinburg city
+48,0,Edmonson town
+48,0,Edna city
+48,0,Edom city
+48,0,El Campo city
+48,0,El Cenizo city
+48,0,Eldorado city
+48,0,Electra city
+48,0,Elgin city
+48,0,Elkhart town
+48,0,El Lago city
+48,0,Elmendorf city
+48,0,El Paso city
+48,0,Elsa city
+48,0,Emhouse town
+48,0,Emory city
+48,0,Enchanted Oaks town
+48,0,Encinal city
+48,0,Ennis city
+48,0,Escobares city
+48,0,Estelline town
+48,0,Euless city
+48,0,Eureka city
+48,0,Eustace city
+48,0,Evant town
+48,0,Everman city
+48,0,Fairchilds village
+48,0,Fairfield city
+48,0,Fair Oaks Ranch city
+48,0,Fairview town
+48,0,Falfurrias city
+48,0,Falls City city
+48,0,Farmers Branch city
+48,0,Farmersville city
+48,0,Farwell city
+48,0,Fate city
+48,0,Fayetteville city
+48,0,Ferris city
+48,0,Flatonia town
+48,0,Florence city
+48,0,Floresville city
+48,0,Flower Mound town
+48,0,Floydada city
+48,0,Follett city
+48,0,Forest Hill city
+48,0,Forney city
+48,0,Forsan city
+48,0,Fort Stockton city
+48,0,Fort Worth city
+48,0,Franklin city
+48,0,Frankston town
+48,0,Fredericksburg city
+48,0,Freeport city
+48,0,Freer city
+48,0,Friendswood city
+48,0,Friona city
+48,0,Frisco city
+48,0,Fritch city
+48,0,Frost city
+48,0,Fruitvale city
+48,0,Fulshear city
+48,0,Fulton town
+48,0,Gainesville city
+48,0,Galena Park city
+48,0,Gallatin city
+48,0,Galveston city
+48,0,Ganado city
+48,0,Garden Ridge city
+48,0,Garland city
+48,0,Garrett town
+48,0,Garrison city
+48,0,Gary City town
+48,0,Gatesville city
+48,0,Georgetown city
+48,0,George West city
+48,0,Gholson city
+48,0,Giddings city
+48,0,Gilmer city
+48,0,Gladewater city
+48,0,Glenn Heights city
+48,0,Glen Rose city
+48,0,Godley city
+48,0,Goldsmith city
+48,0,Goldthwaite city
+48,0,Goliad city
+48,0,Golinda city
+48,0,Gonzales city
+48,0,Goodlow city
+48,0,Goodrich city
+48,0,Gordon city
+48,0,Goree city
+48,0,Gorman city
+48,0,Graford city
+48,0,Graham city
+48,0,Granbury city
+48,0,Grandfalls town
+48,0,Grand Prairie city
+48,0,Grand Saline city
+48,0,Grandview city
+48,0,Granger city
+48,0,Granite Shoals city
+48,0,Granjeno city
+48,0,Grapeland city
+48,0,Grapevine city
+48,0,Grays Prairie village
+48,0,Greenville city
+48,0,Gregory city
+48,0,Grey Forest city
+48,0,Groesbeck city
+48,0,Groom town
+48,0,Groves city
+48,0,Groveton city
+48,0,Gruver city
+48,0,Gun Barrel City city
+48,0,Gunter city
+48,0,Gustine town
+48,0,Hackberry town
+48,0,Hale Center city
+48,0,Hallettsville city
+48,0,Hallsburg city
+48,0,Hallsville city
+48,0,Haltom City city
+48,0,Hamilton city
+48,0,Hamlin city
+48,0,Happy town
+48,0,Hardin city
+48,0,Harker Heights city
+48,0,Harlingen city
+48,0,Hart city
+48,0,Haskell city
+48,0,Haslet city
+48,0,Hawk Cove city
+48,0,Hawkins city
+48,0,Hawley city
+48,0,Hays city
+48,0,Hearne city
+48,0,Heath city
+48,0,Hebron town
+48,0,Hedley city
+48,0,Hedwig Village city
+48,0,Helotes city
+48,0,Hemphill city
+48,0,Hempstead city
+48,0,Henderson city
+48,0,Henrietta city
+48,0,Hereford city
+48,0,Hewitt city
+48,0,Hickory Creek town
+48,0,Hico city
+48,0,Hidalgo city
+48,0,Hideaway city
+48,0,Higgins city
+48,0,Highland Haven city
+48,0,Highland Park town
+48,0,Highland Village city
+48,0,Hill Country Village city
+48,0,Hillcrest village
+48,0,Hillsboro city
+48,0,Hilshire Village city
+48,0,Hitchcock city
+48,0,Holiday Lakes town
+48,0,Holland town
+48,0,Holliday city
+48,0,Hollywood Park town
+48,0,Hondo city
+48,0,Honey Grove city
+48,0,Hooks city
+48,0,Horizon City city
+48,0,Horseshoe Bay city
+48,0,Houston city
+48,0,Howardwick city
+48,0,Howe town
+48,0,Hubbard city
+48,0,Hudson city
+48,0,Hudson Oaks city
+48,0,Hughes Springs city
+48,0,Humble city
+48,0,Hunters Creek Village city
+48,0,Huntington city
+48,0,Huntsville city
+48,0,Hurst city
+48,0,Hutchins city
+48,0,Hutto city
+48,0,Huxley city
+48,0,Idalou city
+48,0,Impact town
+48,0,Indian Lake town
+48,0,Industry city
+48,0,Ingleside city
+48,0,Ingleside on the Bay city
+48,0,Ingram city
+48,0,Iola city
+48,0,Iowa Colony village
+48,0,Iowa Park city
+48,0,Iraan city
+48,0,Iredell city
+48,0,Irving city
+48,0,Italy town
+48,0,Itasca city
+48,0,Ivanhoe city
+48,0,Jacinto City city
+48,0,Jacksboro city
+48,0,Jacksonville city
+48,0,Jamaica Beach city
+48,0,Jarrell city
+48,0,Jasper city
+48,0,Jayton city
+48,0,Jefferson city
+48,0,Jersey Village city
+48,0,Jewett city
+48,0,Joaquin city
+48,0,Johnson City city
+48,0,Jolly city
+48,0,Jones Creek village
+48,0,Jonestown city
+48,0,Josephine city
+48,0,Joshua city
+48,0,Jourdanton city
+48,0,Junction city
+48,0,Justin city
+48,0,Karnes City city
+48,0,Katy city
+48,0,Kaufman city
+48,0,Keene city
+48,0,Keller city
+48,0,Kemah city
+48,0,Kemp city
+48,0,Kempner city
+48,0,Kendleton city
+48,0,Kenedy city
+48,0,Kenefick town
+48,0,Kennard city
+48,0,Kennedale city
+48,0,Kerens city
+48,0,Kermit city
+48,0,Kerrville city
+48,0,Kilgore city
+48,0,Killeen city
+48,0,Kingsville city
+48,0,Kirby city
+48,0,Kirbyville city
+48,0,Kirvin town
+48,0,Knollwood city
+48,0,Knox City town
+48,0,Kosse town
+48,0,Kountze city
+48,0,Kress city
+48,0,Krugerville city
+48,0,Krum city
+48,0,Kurten town
+48,0,Kyle city
+48,0,LaCoste city
+48,0,Lacy-Lakeview city
+48,0,Ladonia town
+48,0,La Feria city
+48,0,Lago Vista city
+48,0,La Grange city
+48,0,La Grulla city
+48,0,Laguna Vista town
+48,0,La Joya city
+48,0,Lake Bridgeport city
+48,0,Lake City town
+48,0,Lake Dallas city
+48,0,Lake Jackson city
+48,0,Lakeport city
+48,0,Lakeside town
+48,0,Lakeside town
+48,0,Lakeside City town
+48,0,Lake Tanglewood village
+48,0,Lakeview town
+48,0,Lakeway city
+48,0,Lakewood Village city
+48,0,Lake Worth city
+48,0,La Marque city
+48,0,Lamesa city
+48,0,Lampasas city
+48,0,Lancaster city
+48,0,La Porte city
+48,0,Laredo city
+48,0,Latexo city
+48,0,La Vernia city
+48,0,La Villa city
+48,0,Lavon city
+48,0,La Ward city
+48,0,Lawn town
+48,0,League City city
+48,0,Leakey city
+48,0,Leander city
+48,0,Leary city
+48,0,Lefors town
+48,0,Leona city
+48,0,Leonard city
+48,0,Leon Valley city
+48,0,Leroy city
+48,0,Levelland city
+48,0,Lewisville city
+48,0,Lexington town
+48,0,Liberty city
+48,0,Liberty Hill city
+48,0,Lincoln Park town
+48,0,Lindale city
+48,0,Linden city
+48,0,Lindsay city
+48,0,Lipan city
+48,0,Little Elm city
+48,0,Littlefield city
+48,0,Little River-Academy city
+48,0,Live Oak city
+48,0,Liverpool city
+48,0,Livingston town
+48,0,Llano city
+48,0,Lockhart city
+48,0,Lockney town
+48,0,Log Cabin city
+48,0,Lometa city
+48,0,Lone Oak city
+48,0,Lone Star city
+48,0,Longview city
+48,0,Loraine town
+48,0,Lorena city
+48,0,Lorenzo city
+48,0,Los Fresnos city
+48,0,Los Indios town
+48,0,Los Ybanez city
+48,0,Lott city
+48,0,Lovelady city
+48,0,Lowry Crossing city
+48,0,Lubbock city
+48,0,Lucas city
+48,0,Lueders city
+48,0,Lufkin city
+48,0,Luling city
+48,0,Lumberton city
+48,0,Lyford city
+48,0,Lytle city
+48,0,Mabank town
+48,0,McAllen city
+48,0,McCamey city
+48,0,McGregor city
+48,0,McKinney city
+48,0,McLean town
+48,0,McLendon-Chisholm city
+48,0,Madisonville city
+48,0,Magnolia city
+48,0,Malakoff city
+48,0,Malone town
+48,0,Manor city
+48,0,Mansfield city
+48,0,Manvel city
+48,0,Marble Falls city
+48,0,Marfa city
+48,0,Marietta town
+48,0,Marion city
+48,0,Marlin city
+48,0,Marquez city
+48,0,Marshall city
+48,0,Mart city
+48,0,Martindale city
+48,0,Mason city
+48,0,Matador town
+48,0,Mathis city
+48,0,Maud city
+48,0,Maypearl city
+48,0,Meadow town
+48,0,Meadowlakes city
+48,0,Meadows Place city
+48,0,Megargel town
+48,0,Melissa city
+48,0,Melvin town
+48,0,Memphis city
+48,0,Menard city
+48,0,Mercedes city
+48,0,Meridian city
+48,0,Merkel town
+48,0,Mertens town
+48,0,Mertzon city
+48,0,Mesquite city
+48,0,Mexia city
+48,0,Miami city
+48,0,Midland city
+48,0,Midlothian city
+48,0,Midway city
+48,0,Milano city
+48,0,Mildred town
+48,0,Miles city
+48,0,Milford town
+48,0,Miller's Cove town
+48,0,Millican town
+48,0,Millsap town
+48,0,Mineola city
+48,0,Mineral Wells city
+48,0,Mingus city
+48,0,Mission city
+48,0,Missouri City city
+48,0,Mobeetie city
+48,0,Mobile City city
+48,0,Monahans city
+48,0,Mont Belvieu city
+48,0,Montgomery city
+48,0,Moody city
+48,0,Moore Station city
+48,0,Moran city
+48,0,Morgan city
+48,0,Morgan's Point city
+48,0,Morgan's Point Resort city
+48,0,Morton city
+48,0,Moulton town
+48,0,Mountain City city
+48,0,Mount Calm city
+48,0,Mount Enterprise city
+48,0,Mount Pleasant city
+48,0,Mount Vernon town
+48,0,Muenster city
+48,0,Muleshoe city
+48,0,Mullin town
+48,0,Munday city
+48,0,Murchison city
+48,0,Murphy city
+48,0,Mustang town
+48,0,Mustang Ridge city
+48,0,Nacogdoches city
+48,0,Naples city
+48,0,Nash city
+48,0,Nassau Bay city
+48,0,Natalia city
+48,0,Navarro town
+48,0,Navasota city
+48,0,Nazareth city
+48,0,Nederland city
+48,0,Needville city
+48,0,Nevada city
+48,0,Newark city
+48,0,New Berlin city
+48,0,New Boston city
+48,0,New Braunfels city
+48,0,Newcastle city
+48,0,New Chapel Hill city
+48,0,New Deal town
+48,0,New Fairview city
+48,0,New Home city
+48,0,New Hope town
+48,0,New London city
+48,0,New Summerfield city
+48,0,Newton city
+48,0,New Waverly city
+48,0,Neylandville town
+48,0,Niederwald city
+48,0,Nixon city
+48,0,Nocona city
+48,0,Nolanville city
+48,0,Nome city
+48,0,Noonday city
+48,0,Nordheim city
+48,0,Normangee town
+48,0,North Cleveland city
+48,0,Northlake town
+48,0,North Richland Hills city
+48,0,Novice city
+48,0,Oak Grove town
+48,0,Oak Leaf city
+48,0,Oak Point city
+48,0,Oak Ridge town
+48,0,Oak Ridge town
+48,0,Oak Ridge North city
+48,0,Oak Valley town
+48,0,Oakwood town
+48,0,O'Brien city
+48,0,Odem city
+48,0,Odessa city
+48,0,O'Donnell city
+48,0,Oglesby city
+48,0,Old River-Winfree city
+48,0,Olmos Park city
+48,0,Olney city
+48,0,Olton city
+48,0,Omaha city
+48,0,Onalaska city
+48,0,Opdyke West town
+48,0,Orange city
+48,0,Orange Grove city
+48,0,Orchard city
+48,0,Ore City city
+48,0,Overton city
+48,0,Ovilla city
+48,0,Oyster Creek city
+48,0,Paducah town
+48,0,Paint Rock town
+48,0,Palacios city
+48,0,Palestine city
+48,0,Palisades village
+48,0,Palmer town
+48,0,Palmhurst city
+48,0,Palm Valley city
+48,0,Palmview city
+48,0,Pampa city
+48,0,Panhandle town
+48,0,Panorama Village city
+48,0,Pantego town
+48,0,Paradise city
+48,0,Paris city
+48,0,Parker city
+48,0,Pasadena city
+48,0,Pattison city
+48,0,Patton Village city
+48,0,Payne Springs town
+48,0,Pearland city
+48,0,Pearsall city
+48,0,Pecan Gap city
+48,0,Pecan Hill city
+48,0,Pecos city
+48,0,Pelican Bay city
+48,0,Penelope town
+48,0,Penitas city
+48,0,Perryton city
+48,0,Petersburg city
+48,0,Petrolia city
+48,0,Petronila city
+48,0,Pflugerville city
+48,0,Pharr city
+48,0,Pilot Point city
+48,0,Pine Forest city
+48,0,Pinehurst city
+48,0,Pine Island town
+48,0,Pineland city
+48,0,Piney Point Village city
+48,0,Pittsburg city
+48,0,Plains town
+48,0,Plainview city
+48,0,Plano city
+48,0,Pleak village
+48,0,Pleasanton city
+48,0,Pleasant Valley town
+48,0,Plum Grove city
+48,0,Point city
+48,0,Point Blank city
+48,0,Point Comfort city
+48,0,Point Venture village
+48,0,Ponder town
+48,0,Port Aransas city
+48,0,Port Arthur city
+48,0,Port Isabel city
+48,0,Portland city
+48,0,Port Lavaca city
+48,0,Port Neches city
+48,0,Post city
+48,0,Post Oak Bend City town
+48,0,Poteet city
+48,0,Poth town
+48,0,Pottsboro town
+48,0,Powell town
+48,0,Poynor town
+48,0,Prairie View city
+48,0,Premont city
+48,0,Presidio city
+48,0,Primera town
+48,0,Princeton city
+48,0,Progreso city
+48,0,Progreso Lakes city
+48,0,Prosper town
+48,0,Providence Village town
+48,0,Putnam town
+48,0,Pyote town
+48,0,Quanah city
+48,0,Queen City city
+48,0,Quinlan city
+48,0,Quintana town
+48,0,Quitaque city
+48,0,Quitman city
+48,0,Ralls city
+48,0,Rancho Viejo town
+48,0,Ranger city
+48,0,Rankin city
+48,0,Ransom Canyon town
+48,0,Ravenna city
+48,0,Raymondville city
+48,0,Red Lick city
+48,0,Red Oak city
+48,0,Redwater city
+48,0,Refugio town
+48,0,Reklaw city
+48,0,Reno city
+48,0,Reno city
+48,0,Retreat town
+48,0,Rhome city
+48,0,Rice city
+48,0,Richardson city
+48,0,Richland town
+48,0,Richland Hills city
+48,0,Richland Springs town
+48,0,Richmond city
+48,0,Richwood city
+48,0,Riesel city
+48,0,Rio Bravo city
+48,0,Rio Grande City city
+48,0,Rio Hondo city
+48,0,Rio Vista city
+48,0,Rising Star town
+48,0,River Oaks city
+48,0,Riverside city
+48,0,Roanoke city
+48,0,Roaring Springs town
+48,0,Robert Lee city
+48,0,Robinson city
+48,0,Robstown city
+48,0,Roby city
+48,0,Rochester town
+48,0,Rockdale city
+48,0,Rockport city
+48,0,Rocksprings town
+48,0,Rockwall city
+48,0,Rocky Mound town
+48,0,Rogers town
+48,0,Rollingwood city
+48,0,Roma city
+48,0,Roman Forest town
+48,0,Ropesville city
+48,0,Roscoe city
+48,0,Rosebud city
+48,0,Rose City city
+48,0,Rose Hill Acres city
+48,0,Rosenberg city
+48,0,Ross city
+48,0,Rosser village
+48,0,Rotan city
+48,0,Round Mountain town
+48,0,Round Rock city
+48,0,Round Top town
+48,0,Rowlett city
+48,0,Roxton city
+48,0,Royse City city
+48,0,Rule town
+48,0,Runaway Bay city
+48,0,Runge town
+48,0,Rusk city
+48,0,Sabinal city
+48,0,Sachse city
+48,0,Sadler city
+48,0,Saginaw city
+48,0,St. Hedwig town
+48,0,St. Jo city
+48,0,St. Paul town
+48,0,Salado village
+48,0,San Angelo city
+48,0,San Antonio city
+48,0,San Augustine city
+48,0,San Benito city
+48,0,Sanctuary town
+48,0,San Diego city
+48,0,Sandy Oaks city
+48,0,Sandy Point city
+48,0,San Elizario city
+48,0,San Felipe town
+48,0,Sanford town
+48,0,Sanger city
+48,0,San Juan city
+48,0,San Leanna village
+48,0,San Marcos city
+48,0,San Patricio city
+48,0,San Perlita city
+48,0,San Saba city
+48,0,Sansom Park city
+48,0,Santa Anna town
+48,0,Santa Clara city
+48,0,Santa Fe city
+48,0,Santa Rosa town
+48,0,Savoy city
+48,0,Schertz city
+48,0,Schulenburg city
+48,0,Scotland city
+48,0,Scottsville city
+48,0,Scurry town
+48,0,Seabrook city
+48,0,Seadrift city
+48,0,Seagoville city
+48,0,Seagraves city
+48,0,Sealy city
+48,0,Seguin city
+48,0,Selma city
+48,0,Seminole city
+48,0,Seven Oaks city
+48,0,Seven Points city
+48,0,Seymour city
+48,0,Shady Shores town
+48,0,Shallowater city
+48,0,Shamrock city
+48,0,Shavano Park city
+48,0,Shenandoah city
+48,0,Shepherd city
+48,0,Sherman city
+48,0,Shiner city
+48,0,Shoreacres city
+48,0,Silsbee city
+48,0,Silverton city
+48,0,Simonton city
+48,0,Sinton city
+48,0,Skellytown town
+48,0,Slaton city
+48,0,Smiley city
+48,0,Smithville city
+48,0,Smyer town
+48,0,Snook city
+48,0,Snyder city
+48,0,Socorro city
+48,0,Somerset city
+48,0,Somerville city
+48,0,Sonora city
+48,0,Sour Lake city
+48,0,South Houston city
+48,0,Southlake city
+48,0,Southmayd city
+48,0,South Mountain town
+48,0,South Padre Island town
+48,0,Southside Place city
+48,0,Spearman city
+48,0,Splendora city
+48,0,Spofford city
+48,0,Springlake town
+48,0,Springtown city
+48,0,Spring Valley Village city
+48,0,Spur city
+48,0,Stafford city
+48,0,Stagecoach town
+48,0,Stamford city
+48,0,Stanton city
+48,0,Staples city
+48,0,Star Harbor city
+48,0,Stephenville city
+48,0,Sterling City city
+48,0,Stinnett city
+48,0,Stockdale city
+48,0,Stratford city
+48,0,Strawn city
+48,0,Streetman town
+48,0,Sudan city
+48,0,Sugar Land city
+48,0,Sullivan City city
+48,0,Sulphur Springs city
+48,0,Sundown city
+48,0,Sunnyvale town
+48,0,Sunray city
+48,0,Sunrise Beach Village city
+48,0,Sunset Valley city
+48,0,Sun Valley city
+48,0,Surfside Beach city
+48,0,Sweeny city
+48,0,Sweetwater city
+48,0,Taft city
+48,0,Tahoka city
+48,0,Talco city
+48,0,Talty town
+48,0,Tatum city
+48,0,Taylor city
+48,0,Taylor Lake Village city
+48,0,Taylor Landing city
+48,0,Teague city
+48,0,Tehuacana town
+48,0,Temple city
+48,0,Tenaha town
+48,0,Terrell city
+48,0,Terrell Hills city
+48,0,Texarkana city
+48,0,Texas City city
+48,0,Texhoma city
+48,0,Texline town
+48,0,The Colony city
+48,0,The Hills village
+48,0,Thompsons town
+48,0,Thorndale city
+48,0,Thornton town
+48,0,Thorntonville town
+48,0,Thrall city
+48,0,Three Rivers city
+48,0,Throckmorton town
+48,0,Tiki Island village
+48,0,Timbercreek Canyon village
+48,0,Timpson city
+48,0,Tioga town
+48,0,Tira town
+48,0,Toco city
+48,0,Todd Mission city
+48,0,Tolar city
+48,0,Tomball city
+48,0,Tom Bean city
+48,0,Tool city
+48,0,Toyah town
+48,0,Trent town
+48,0,Trenton city
+48,0,Trinidad city
+48,0,Trinity city
+48,0,Trophy Club town
+48,0,Troup city
+48,0,Troy city
+48,0,Tulia city
+48,0,Turkey city
+48,0,Tuscola city
+48,0,Tye city
+48,0,Tyler city
+48,0,Uhland city
+48,0,Uncertain city
+48,0,Union Grove city
+48,0,Union Valley city
+48,0,Universal City city
+48,0,University Park city
+48,0,Uvalde city
+48,0,Valentine town
+48,0,Valley Mills city
+48,0,Valley View city
+48,0,Van city
+48,0,Van Alstyne city
+48,0,Van Horn town
+48,0,Vega city
+48,0,Venus town
+48,0,Vernon city
+48,0,Victoria city
+48,0,Vidor city
+48,0,Vinton village
+48,0,Volente village
+48,0,Von Ormy city
+48,0,Waco city
+48,0,Waelder city
+48,0,Wake Village city
+48,0,Waller city
+48,0,Wallis city
+48,0,Walnut Springs city
+48,0,Warren City city
+48,0,Waskom city
+48,0,Watauga city
+48,0,Waxahachie city
+48,0,Weatherford city
+48,0,Webberville village
+48,0,Webster city
+48,0,Weimar city
+48,0,Weinert city
+48,0,Weir city
+48,0,Wellington city
+48,0,Wellman city
+48,0,Wells town
+48,0,Weslaco city
+48,0,West city
+48,0,Westbrook city
+48,0,West Columbia city
+48,0,Westlake town
+48,0,West Lake Hills city
+48,0,Weston city
+48,0,Weston Lakes city
+48,0,West Orange city
+48,0,Westover Hills town
+48,0,West Tawakoni city
+48,0,West University Place city
+48,0,Westworth Village city
+48,0,Wharton city
+48,0,Wheeler city
+48,0,White Deer town
+48,0,Whiteface town
+48,0,Whitehouse city
+48,0,White Oak city
+48,0,Whitesboro city
+48,0,White Settlement city
+48,0,Whitewright town
+48,0,Whitney town
+48,0,Wichita Falls city
+48,0,Wickett town
+48,0,Willis city
+48,0,Willow Park city
+48,0,Wills Point city
+48,0,Wilmer city
+48,0,Wilson city
+48,0,Wimberley city
+48,0,Windcrest city
+48,0,Windom town
+48,0,Windthorst town
+48,0,Winfield city
+48,0,Wink city
+48,0,Winnsboro city
+48,0,Winona town
+48,0,Winters city
+48,0,Wixon Valley city
+48,0,Wolfe City city
+48,0,Wolfforth city
+48,0,Woodbranch city
+48,0,Woodcreek city
+48,0,Woodloch town
+48,0,Woodsboro town
+48,0,Woodson town
+48,0,Woodville town
+48,0,Woodway city
+48,0,Wortham town
+48,0,Wylie city
+48,0,Yantis town
+48,0,Yoakum city
+48,0,Yorktown city
+48,0,Zavalla city
