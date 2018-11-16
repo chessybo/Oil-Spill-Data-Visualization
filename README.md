@@ -5,6 +5,7 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 
 ## Insights Revealed
 - [a map of volume and number of oil spills by county](presentable/oil_spill_net_loss_2009_2018.png)
+- Annual Number of Operators in the Permian Basin(presentable/ Number of Operators Annually in the Permian Basin.png) 
 - production data graph
 - barrels of oil produced per barrel of oil spilled (Lost)
 - barrels of oil produced per spill
@@ -13,7 +14,7 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 
 
 ## Data Sources
-- number of operators in Permian Basin annually: Texas Rail Road Commission Oil & Gas Data Query - [General Production Query](http://webapps2.rrc.texas.gov/EWA/productionQueryAction.do) Searching the production data by year long intervals, one can see the number of Operators producing oil in a given year.
+- annual number of operators in Permian Basin: Texas Rail Road Commission Oil & Gas Data Query - [General Production Query](http://webapps2.rrc.texas.gov/EWA/productionQueryAction.do) Searching the production data by year long intervals for each district ([8](production data/District 8/.), [8A](production data/District 8A/.), & [7C](production data/District 7C/.)), one can see the number of Operators producing oil in a given year.
 - a map of volume and number of oil spills by county: Texas RRC - [Crude Oil, Gas Well Liquids or Associated Products (H-8) Loss Reports](http://www.rrc.state.tx.us/oil-gas/compliance-enforcement/h-8/)
 
 ## Future Work
