@@ -1,8 +1,8 @@
-# Oil-Spill-Data-Visualization
+# Oil Spill Data Visualization
 
 This project takes data collected in the Permian Basin by the Texas Rail Road Commission through various reports oil & gas companies are obligated to submit. 
 
-
+http://www.rrc.state.tx.us/about-us/resource-center/research/online-research-queries/
 
 
 Insights Revealed
@@ -25,7 +25,7 @@ Searching the production data by year long intervals, one can see the number of 
 a map of volume and number of oil spills by county: Texas RRC - Crude Oil, Gas Well Liquids or Associated Products (H-8) Loss Reports (http://www.rrc.state.tx.us/oil-gas/compliance-enforcement/h-8/)
 
 Future Work
-annual water injected: an analysis of cumulation, "H-10 Annual Disposal/Injection Well Monitoring Reports" of all operators would provide a market insight as to the demmand for water treatment systems. This would require a data extraction method to pull the data from the individual H-10 reports on the RRC website that are in PDF format.
+annual water injected: an analysis of cumulative, "H-10 Annual Disposal/Injection Well Monitoring Reports" of all operators would provide a market insight as to the demmand for water treatment systems. This would require a data extraction method to pull the data from the individual H-10 reports on the [RRC website](http://webapps.rrc.state.tx.us/H10/h10PublicMain.do) that are in PDF format. However, the Texas RRC [states](http://www.rrc.state.tx.us/about-us/resource-center/research/online-research-queries/), "If the query system detects that data is being retrieved using an automated tool, the Railroad Commission of Texas will end the session for that user." 
 
 Total number of unique operators to ever operate in the permian basin: such a figure would be simple to produce, using the operator
 
