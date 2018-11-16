@@ -5,7 +5,7 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 
 ## Insights Revealed
 - [a map of volume and number of oil spills by county](presentable/oil_spill_net_loss_2009_2018.png)
-- Annual Number of Operators in the Permian Basin(<presentable/Number of Operators Annually in the Permian Basin.png>) 
+- [Annual Number of Operators in the Permian Basin](<presentable/Number of Operators Annually in the Permian Basin.png>) 
 - production data graph
 - barrels of oil produced per barrel of oil spilled (Lost)
 - barrels of oil produced per spill
