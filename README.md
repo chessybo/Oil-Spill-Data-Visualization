@@ -14,7 +14,7 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 
 
 ## Data Sources
-- annual number of operators in Permian Basin: Texas Rail Road Commission Oil & Gas Data Query - [General Production Query](http://webapps2.rrc.texas.gov/EWA/productionQueryAction.do) Searching the production data by year long intervals for each district ([8](production data/District 8/.), [8A](production data/District 8A/.), & [7C](production data/District 7C/.)), one can see the number of Operators producing oil in a given year.
+- annual number of operators in Permian Basin: Texas Rail Road Commission Oil & Gas Data Query - [General Production Query](http://webapps2.rrc.texas.gov/EWA/productionQueryAction.do) Searching the production data by year long intervals for each district  [8](https://github.com/chessybo/Oil-Spill-Data-Visualization/tree/master/production%20data/District%208), [8A](https://github.com/chessybo/Oil-Spill-Data-Visualization/tree/master/production%20data/District%208A), & [7C](https://github.com/chessybo/Oil-Spill-Data-Visualization/tree/master/production%20data/District%207C) , one can see the number of Operators producing oil in a given year.
 - a map of volume and number of oil spills by county: Texas RRC - [Crude Oil, Gas Well Liquids or Associated Products (H-8) Loss Reports](http://www.rrc.state.tx.us/oil-gas/compliance-enforcement/h-8/)
 
 ## Future Work
