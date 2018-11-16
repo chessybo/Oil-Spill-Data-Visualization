@@ -4,7 +4,7 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 
 
 ## Insights Revealed
-- [a map of volume and number of oil spills by county](chessybo/Oil-Spill-Data-Visualization/presentable/oil_spill_net_loss_2009_2018.md)
+- [a map of volume and number of oil spills by county](/presentable/oil_spill_net_loss_2009_2018.md)
 - production data graph
 - barrels of oil produced per barrel of oil spilled (Lost)
 - barrels of oil produced per spill
