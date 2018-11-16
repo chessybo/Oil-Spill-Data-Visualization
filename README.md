@@ -14,4 +14,6 @@ Searching the production data by year long intervals, one can see the number of 
 
 
 Future Outlook
-annual water injected: 
+annual water injected: an analysis of cumulation, "H-10 Annual Disposal/Injection Well Monitoring Reports" of all operators would provide a market insight as to the demmand for water treatment systems. This would require a data extraction method to pull the data from the individual H-10 reports on the RRC website that are in PDF format.
+
+Total number of unique operators to ever operate in the permian basin: such a figure would be simple to produce, using the operator
