@@ -1,6 +1,6 @@
 # Oil Spill Data Visualization
 
-This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource-center/research/online-research-queries/) in the Permian Basin by the Texas Rail Road Commission through various reports oil & gas companies are obligated to submit. 
+This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource-center/research/online-research-queries/) in the [Permian Basin](https://upload.wikimedia.org/wikipedia/en/4/4e/Active_wells_on_the_Permian_Basin.jpg) by the Texas Rail Road Commission through various reports oil & gas companies are obligated to submit. 
 
 
 ## Insights Revealed
