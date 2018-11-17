@@ -8,7 +8,7 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 - [Annual Number of Operators in the Permian Basin](<presentable/Number of Operators Annually in the Permian Basin.png>) 
 - production data graph
 - [Oil Produced vs Oil Spilled](presentable/Oil_Produced_vs_Oil_Spilled.png)
-- Average Size of Oil Spills and their Causes:
+- [Average Size of Oil Spills](presentable/oil_spills.png) and their [Causes](presentable/oil_spill_causes.png):Texas Rail Road Commission [Crude Oil, Gas Well Liquids or Associated Products (H-8) Loss Reports](http://www.rrc.state.tx.us/oil-gas/compliance-enforcement/h-8/)
 
 
 ## Data Sources
