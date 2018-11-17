@@ -7,17 +7,16 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 - [a map of volume and number of oil spills by county](presentable/oil_spill_net_loss_2009_2018.png)
 - [Annual Number of Operators in the Permian Basin](<presentable/Number of Operators Annually in the Permian Basin.png>) 
 - production data graph
-- barrels of oil produced per barrel of oil spilled (Lost)
-- barrels of oil produced per spill
+- [Oil Produced vs Oil Spilled](presentable/Oil_Produced_vs_Oil_Spilled.png)
 - Annual Number of Oil Spills in the Permian Basin
 - Average Size of Oil Spills due to its Cause in the Permian Basin
 
 
 ## Data Sources
-- Annual Number of Operators in Permian Basin: Texas Rail Road Commission Oil & Gas Data Query - [General Production Query](http://webapps2.rrc.texas.gov/EWA/productionQueryAction.do) 
+- [Annual Number of Operators in Permian Basin](<production data/anuual_Operators_by_District.xlsx>): Texas Rail Road Commission Oil & Gas Data Query - [General Production Query](http://webapps2.rrc.texas.gov/EWA/productionQueryAction.do) 
   - Searching the production data by year long intervals for each district  ([8](https://github.com/chessybo/Oil-Spill-Data-Visualization/tree/master/production%20data/District%208), [8A](https://github.com/chessybo/Oil-Spill-Data-Visualization/tree/master/production%20data/District%208A), & [7C](https://github.com/chessybo/Oil-Spill-Data-Visualization/tree/master/production%20data/District%207C)), one can see the [number of operators producing oil in a given year](<production data/anuual_Operators_by_District.xlsx>).
-- a map of volume and number of oil spills by county: Texas RRC - [Crude Oil, Gas Well Liquids or Associated Products (H-8) Loss Reports](http://www.rrc.state.tx.us/oil-gas/compliance-enforcement/h-8/)
-
+- [a map of volume and number of oil spills by county](plot_rrc_data.py): Texas RRC - [Crude Oil, Gas Well Liquids or Associated Products (H-8) Loss Reports](http://www.rrc.state.tx.us/oil-gas/compliance-enforcement/h-8/)
+- [Oil Produced vs Oil Spilled](oil_produced_and_oil_spilled.py):
 
 
 ## Future Work
