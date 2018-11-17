@@ -4,7 +4,7 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 
 
 ## Insights
-- [a map of volume and number of oil spills by county](presentable/oil_spill_net_loss_2009_2018.png)
+- [a map of volume and number of oil spills by county](presentable/oil_spill_net_loss_2009_2018.png) [(interactive)](https://plot.ly/~chessybo/12/oil-spills-from-12116-51418/)
 - [Annual Number of Operators in the Permian Basin](<presentable/Number of Operators Annually in the Permian Basin.png>) 
 - [Oil Produced vs Oil Spilled](presentable/Oil_Produced_vs_Oil_Spilled.png)
 - [Average Size of Oil Spills](presentable/oil_spills.png) and their [Causes](presentable/oil_spill_causes.png)
