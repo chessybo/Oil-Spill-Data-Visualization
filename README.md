@@ -8,8 +8,7 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 - [Annual Number of Operators in the Permian Basin](<presentable/Number of Operators Annually in the Permian Basin.png>) 
 - production data graph
 - [Oil Produced vs Oil Spilled](presentable/Oil_Produced_vs_Oil_Spilled.png)
-- Annual Number of Oil Spills in the Permian Basin
-- Average Size of Oil Spills due to its Cause in the Permian Basin
+- Average Size of Oil Spills and their Causes:
 
 
 ## Data Sources
