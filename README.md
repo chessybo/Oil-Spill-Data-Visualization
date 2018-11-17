@@ -26,9 +26,10 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 - Total number of unique operators to ever operate in the permian basin: such a figure would be simple to produce, using the operator
 
 
-- a map of volume and number of oil spills by county: an analysis could be furthered by determining which county has the largest/smallest sized oil spills.
+- Map of volume and number of oil spills by county: an analysis could be furthered by determining which county has the largest/smallest sized oil spills.
 
-(wasnt there somethigns i wanted like the spills per operator?)
+- Have the interactive map display the number of oil spills per county (or even the average size of oil spill per county) on "hover over". ideally displayed along with the net spill volume.
+  - Challenge: make an interactive sliding bar toadjust the date range.
 
 ## Comments
 This is an original data analysis of this Texas Rail Road Commission data. The reason this analysis has not been done previously is likely due to the limited scope of the available data compared to other states such as Oklahoma with stricter reporting and [better data management](http://www.occeweb.com/og/ogdatafiles2.htm)
