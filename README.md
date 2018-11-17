@@ -3,7 +3,7 @@
 This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource-center/research/online-research-queries/) in Texas and/or the [Permian Basin](https://upload.wikimedia.org/wikipedia/en/4/4e/Active_wells_on_the_Permian_Basin.jpg) (This includes Oil & Gas Districts 8, 8A, & 7C) by the Texas Rail Road Commission through various reports oil & gas companies are obligated to submit. 
 
 
-## Insights Revealed
+## Insights
 - [a map of volume and number of oil spills by county](presentable/oil_spill_net_loss_2009_2018.png)
 - [Annual Number of Operators in the Permian Basin](<presentable/Number of Operators Annually in the Permian Basin.png>) 
 - production data graph
@@ -16,7 +16,7 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
   - Searching the production data by year long intervals for each district  ([8](https://github.com/chessybo/Oil-Spill-Data-Visualization/tree/master/production%20data/District%208), [8A](https://github.com/chessybo/Oil-Spill-Data-Visualization/tree/master/production%20data/District%208A), & [7C](https://github.com/chessybo/Oil-Spill-Data-Visualization/tree/master/production%20data/District%207C)), one can see the [number of operators producing oil in a given year](<production data/anuual_Operators_by_District.xlsx>).
 - [a map of volume and number of oil spills by county](plot_rrc_data.py): Texas RRC - [Crude Oil, Gas Well Liquids or Associated Products (H-8) Loss Reports](http://www.rrc.state.tx.us/oil-gas/compliance-enforcement/h-8/)
 - [Oil Produced vs Oil Spilled](oil_produced_and_oil_spilled.py): Texas Rail Road Commission - [Crude Oil Production and Well Counts (since 1935)](http://www.rrc.state.tx.us/oil-gas/research-and-statistics/production-data/historical-production-data/crude-oil-production-and-well-counts-since-1935/)
-- [Average Size of Oil Spills and their Causes](<Oil Spill Data - Crude Oil, Gas Well Liquids or Associated Products (H-8)/oilspill_data_analysis.xlsx>): Texas Rail Road Commission - [Crude Oil, Gas Well Liquids or Associated Products (H-8) Loss Reports](http://www.rrc.state.tx.us/oil-
+- [Average Size of Oil Spills and their Causes](<Oil Spill Data - Crude Oil, Gas Well Liquids or Associated Products (H-8)/oilspill_data_analysis.xlsx>): Texas Rail Road Commission - [Crude Oil, Gas Well Liquids or Associated Products (H-8) Loss Reports](http://www.rrc.state.tx.us/oil-gas/compliance-enforcement/h-8/)
 
 
 ## Future Work
