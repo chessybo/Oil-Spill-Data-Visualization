@@ -34,5 +34,4 @@ num_oilspills = tbl2.fips.value_counts()
 
 tbl3 = tbl2.groupby(['county_name', 'District', 'fips'],as_index = False).agg({'Net Loss': ['sum','count']})
 
-after i saved this i reorded the table by district
-#tbl3.to_csv('county_name & fips & net loss & count (ordered by district & grouped).csv')
+tbl3.to_csv('oil_spill_per_county.csv')
