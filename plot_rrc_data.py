@@ -26,7 +26,7 @@ df2 = pd.concat([df2013, df2014, df2015], ignore_index=True)
 df3 = pd.concat([df2016, df2017, df2018], ignore_index=True)
 df4 = pd.concat([df1, df2, df3], ignore_index=True)
 df = pd.concat([df4, df2009], ignore_index=True)
-df.to_csv(r'E:\Documents\Wild Catters\Data Analysis\Oil Spills\Data\Oil Spill Data - Crude Oil, Gas Well Liquids or Associated Products (H-8)\rrc_spill_data.csv')
+
 
 df['County'] = df['County'].str.lower()
 dffips['County'] = dffips['County'].str.lower()
@@ -36,10 +36,9 @@ dffips['fips_county'] = dffips['fips_county'].astype(str).str.zfill(3)
 dffips['fips'] = dffips[['fips_state','fips_county']].astype(str).apply(lambda x: ''.join(x), axis=1)
 
 df = df.merge(dffips)
-df.to_csv(r'E:\Documents\Wild Catters\Data Analysis\Oil Spills\Data\Oil Spill Data - Crude Oil, Gas Well Liquids or Associated Products (H-8)\rrc_spill_data_fips.csv')
 
 df_fips = df.groupby(['fips'], as_index=False).sum()
-df_fips.to_csv(r'E:\Documents\Wild Catters\Data Analysis\Oil Spills\Data\Oil Spill Data - Crude Oil, Gas Well Liquids or Associated Products (H-8)\rrc_spill_data_fips-consolidated.csv')
+
 
 
 colorscale = ['hsl(244.0, 100.0%, 86%)', 'hsl(244.0, 100.0%, 84%)', 
@@ -92,26 +91,6 @@ fig = create_choropleth(
     state_outline={'width': 3},
     asp=2.9, title='Oil Spills from 2009 to 2018',
     legend_title='Net spill Volume BBL')
-
-#this puts them side by side.
-#df['text'] = [str(a)+" District: "+str(b) for a,b in zip(df['number_of_oil_spills'], df['District'])]
-#this doesnt work right, only shows for some counties, and shows the wrong numbers, doesnt remove fips
-
-        
-#hover_trace = [t for t in fig['data'] if 'text' in t][0]
-#for i, label in enumerate(hover_trace['text']):
-    # Remove FIPS
-#    if(i<len(fips)):
-#        new_label = label.replace("FIPS: %s<br>" % fips[i], "")
-
-        # Add a new value
-#        new_label +=  "<br>Num of Spills: %d" % df['number_of_oil_spills'][i]
-
-        # Add a new value
-#        new_label +=  "<br>District: %s" %df['District'][i]
-
-        # Update trace text
-#        hover_trace['text'][i] = new_label        
 
 fig['layout']['legend'].update({'x': 0})
 fig['layout']['annotations'][0].update({'x': -0.12, 'xanchor': 'left'})
