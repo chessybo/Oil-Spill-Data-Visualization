@@ -30,6 +30,8 @@ This project takes [data collected](http://www.rrc.state.tx.us/about-us/resource
 
 - Have the interactive map display the number of oil spills per county (or even the average size of oil spill per county) on "hover over". ideally displayed along with the net spill volume.
   - Challenge: make an interactive sliding bar toadjust the date range.
+  
+ - see if "Oil Produced vs Oil Spilled" varies by county.
 
 ## Comments
 This is an original data analysis of this Texas Rail Road Commission data. The reason this analysis has not been done previously is likely due to the limited scope of the available data compared to other states such as Oklahoma with stricter reporting and [better data management](http://www.occeweb.com/og/ogdatafiles2.htm)
